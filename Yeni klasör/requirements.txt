@@ -1,0 +1,7 @@
+sudo apt install nodejs
+npm install cloudscraper
+npm install randomstring
+npm install request
+
+
+// За помощью обратитесь к Frise X#0080
